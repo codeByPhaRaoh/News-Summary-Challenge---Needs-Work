@@ -1,0 +1,9 @@
+{
+  "short_name": "Digital Futures News",
+  "name": "Digital Futures News Challenge by Pierre Raphael",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

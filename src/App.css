@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+img {
+  max-width: 600px;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+ul {
+  padding: 0;
+  margin: 10px;
+}
+
+li {
+  padding: 10px;
+  margin-bottom: 20px;
+}
